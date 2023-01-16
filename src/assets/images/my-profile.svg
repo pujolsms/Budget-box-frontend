@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135.5" height="137.5" viewBox="0 0 135.5 137.5">
+  <defs>
+    <filter id="Rectangle_298" x="0" y="0" width="120.928" height="120.928" filterUnits="userSpaceOnUse">
+      <feOffset dx="-13" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-color="#212121" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_345" data-name="Group 345" transform="translate(-19.5 -107.5)">
+    <g id="Group_344" data-name="Group 344" transform="translate(5152 -10919)">
+      <g transform="matrix(1, 0, 0, 1, -5132.5, 11026.5)" filter="url(#Rectangle_298)">
+        <rect id="Rectangle_298-2" data-name="Rectangle 298" width="57.932" height="57.932" rx="15" transform="translate(32.5 62.46) rotate(-45)" fill="rgba(240,240,240,0.65)"/>
+      </g>
+      <rect id="Rectangle_47" data-name="Rectangle 47" width="57.932" height="57.932" rx="15" transform="translate(-5100 11088.964) rotate(-45)" fill="rgba(240,240,240,0.65)"/>
+      <g id="noun_profile_1467620" transform="translate(-5068 11080)">
+        <g id="Group_183" data-name="Group 183" transform="translate(0 0)">
+          <path id="Path_47" data-name="Path 47" d="M33.765,7A3.777,3.777,0,0,0,30,10.765V12.02a3.782,3.782,0,0,0,3.765,3.787H35.02a3.782,3.782,0,0,0,3.787-3.765V10.787A3.782,3.782,0,0,0,35.042,7Zm3.916,3.765V12.02a2.631,2.631,0,0,1-2.639,2.6H33.787a2.428,2.428,0,0,1-2.617-2.6V10.765a2.565,2.565,0,0,1,2.617-2.713h1.255A2.8,2.8,0,0,1,37.68,10.765Z" transform="translate(-25.377 -7)" fill="#2e4dd4"/>
+          <path id="Path_48" data-name="Path 48" d="M9,59.4a.712.712,0,0,0,.715.736c.331-.006.607-.273.607-.758V58.319a4.835,4.835,0,0,1,4.93-5.125H20.8c2.88-.117,5.045,2.637,5.045,5.147V59.4a.609.609,0,0,0,.625.677c.3-.006.582-.214.582-.7V58.319A6.291,6.291,0,0,0,20.8,52H15.253A6.291,6.291,0,0,0,9,58.319Z" transform="translate(-9 -42.093)" fill="#2e4dd4"/>
+        </g>
+      </g>
+    </g>
+    <text id="My_Account" data-name="My Account" transform="translate(30 238)" fill="rgba(240,240,240,0.65)" font-size="21" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">My Account</tspan></text>
+  </g>
+</svg>

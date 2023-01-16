@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1008" height="405" viewBox="0 0 1008 405">
+  <defs>
+    <filter id="background" x="0" y="0" width="1008" height="405" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e328af"/>
+      <stop offset="1" stop-color="#ff5aef"/>
+    </linearGradient>
+  </defs>
+  <g id="income" transform="translate(-472 -427)">
+    <g transform="matrix(1, 0, 0, 1, 472, 427)" filter="url(#background)">
+      <path id="background-2" data-name="background" d="M14,0H982a14,14,0,0,1,14,14V379a14,14,0,0,1-14,14H14A14,14,0,0,1,0,379V14A14,14,0,0,1,14,0Z" transform="translate(6 2)" fill="#fff"/>
+    </g>
+    <g id="Group_353" data-name="Group 353" transform="translate(-26 11.5)">
+      <g id="barChart" transform="translate(531 516.102)">
+        <g id="bar02" transform="translate(281 2)">
+          <path id="_01" data-name="01" d="M7,0a7,7,0,0,0,7-7V-230H0V-7A7,7,0,0,0,7,0Z" transform="translate(33) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02" data-name="02" d="M7,0a7,7,0,0,0,7-7V-150H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 80) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar02-2" data-name="bar02" transform="translate(632 2)">
+          <path id="_01-2" data-name="01" d="M7,0a7,7,0,0,0,7-7V-230H0V-7A7,7,0,0,0,7,0Z" transform="translate(33) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-2" data-name="02" d="M7,0a7,7,0,0,0,7-7V-150H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 80) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar03" transform="translate(545 30)">
+          <path id="_01-3" data-name="01" d="M7,0a7,7,0,0,0,7-7V-202H0V-7A7,7,0,0,0,7,0Z" transform="translate(32) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-3" data-name="02" d="M7,0a7,7,0,0,0,7-7V-88H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 114) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar03-2" data-name="bar03" transform="translate(896 30)">
+          <path id="_01-4" data-name="01" d="M7,0a7,7,0,0,0,7-7V-202H0V-7A7,7,0,0,0,7,0Z" transform="translate(32) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-4" data-name="02" d="M7,0a7,7,0,0,0,7-7V-88H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 114) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar03-3" data-name="bar03" transform="translate(94 128.065)">
+          <path id="_01-5" data-name="01" d="M7,0a7,7,0,0,0,7-7V-87.656H0V-7A7,7,0,0,0,7,0Z" transform="translate(32.273 16.279) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-5" data-name="02" d="M7,0a7,7,0,0,0,7-7v-96.935H0V-7A7,7,0,0,0,7,0Z" transform="translate(14) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar04" transform="translate(457 49)">
+          <path id="_01-6" data-name="01" d="M7,0a7,7,0,0,0,7-7V-44H0V-7A7,7,0,0,0,7,0Z" transform="translate(32 139) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-6" data-name="02" d="M7,0a7,7,0,0,0,7-7V-183H0V-7A7,7,0,0,0,7,0Z" transform="translate(14) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar04-2" data-name="bar04" transform="translate(808 49)">
+          <path id="_01-7" data-name="01" d="M7,0a7,7,0,0,0,7-7V-44H0V-7A7,7,0,0,0,7,0Z" transform="translate(32 139) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-7" data-name="02" d="M7,0a7,7,0,0,0,7-7V-183H0V-7A7,7,0,0,0,7,0Z" transform="translate(14) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar04-3" data-name="bar04" transform="translate(6 25.058)">
+          <path id="_01-8" data-name="01" d="M7,0a7,7,0,0,0,7-7V-206.942H0V-7A7,7,0,0,0,7,0Z" transform="translate(32.273) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-8" data-name="02" d="M7,0a7,7,0,0,0,7-7V-170.789H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 36.153) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar05" transform="translate(369 135.55)">
+          <path id="_01-9" data-name="01" d="M7,0a7,7,0,0,0,7-7V-96.45H0V-7A7,7,0,0,0,7,0Z" transform="translate(32) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-9" data-name="02" d="M7,0a7,7,0,0,0,7-7V-57.87H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 38.58) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar05-2" data-name="bar05" transform="translate(721 135.55)">
+          <path id="_01-10" data-name="01" d="M7,0a7,7,0,0,0,7-7V-96.45H0V-7A7,7,0,0,0,7,0Z" transform="translate(32) rotate(180)" fill="url(#linear-gradient)"/>
+          <path id="_02-10" data-name="02" d="M7,0a7,7,0,0,0,7-7V-57.87H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 38.58) rotate(180)" fill="#5ecfff"/>
+        </g>
+        <g id="bar06" transform="translate(182 49)">
+          <path id="_01-11" data-name="01" d="M7,0a7,7,0,0,0,7-7V-183H0V-7A7,7,0,0,0,7,0Z" transform="translate(32) rotate(180)" fill="url(#linear-gradient)"/>
+          <g id="Mask_Group" data-name="Mask Group" transform="translate(18)">
+            <path id="_3" data-name="3" d="M7,0a7,7,0,0,0,7-7V-183H0V-7A7,7,0,0,0,7,0Z" transform="translate(14) rotate(180)" fill="#1eaae7"/>
+            <path id="Vector" d="M2.121,266.112v0h0L0,263.188,41.012,206.68l2.121,2.922L2.121,266.111Zm0-13.778v0h0L0,249.41,41.012,192.9l2.121,2.923L2.121,252.333Zm0-13.779v0h0L0,235.631l41.012-56.509,2.121,2.923L2.121,238.554Zm0-13.779v0h0L0,221.853l41.012-56.509,2.121,2.922L2.121,224.775Zm0-13.778v0h0L0,208.074l41.012-56.509,2.121,2.923L2.121,211Zm0-13.779v0h0L0,194.3l41.012-56.509,2.121,2.922L2.121,197.218Zm0-13.778v0h0L0,180.517l41.012-56.509,2.121,2.923L2.121,183.44Zm0-13.779v0h0L0,166.738l41.012-56.508,2.121,2.922L2.121,169.661Zm0-13.778v0h0L0,152.959,41.012,96.45l2.121,2.923L2.121,155.883Zm0-13.779v0h0L0,139.18,41.012,82.671l2.121,2.923L2.121,142.1Zm0-13.779v0h0L0,125.4,41.012,68.893l2.121,2.922L2.121,128.325Zm0-13.778v0h0L0,111.623,41.012,55.114l2.121,2.923L2.121,114.547Zm0-13.779v0h0L0,97.845,41.012,41.336l2.121,2.922L2.121,100.768Zm0-13.778v0h0L0,84.066,41.012,27.557l2.121,2.923L2.121,86.989Zm0-13.779v0h0L0,70.287,41.012,13.779,43.133,16.7,2.121,73.21Zm0-13.778v0h0L0,56.509,41.012,0l2.121,2.923L2.121,59.432Z" transform="translate(-17.861 -47.103)" fill="rgba(255,255,255,0.4)"/>
+          </g>
+          <path id="_02-11" data-name="02" d="M7,0a7,7,0,0,0,7-7V-135H0V-7A7,7,0,0,0,7,0Z" transform="translate(14 48) rotate(180)" fill="#5dcfff"/>
+        </g>
+      </g>
+      <g id="title" transform="translate(539.5 443.5)">
+        <text id="Profile_Summary" data-name="Profile Summary" transform="translate(0 31)" fill="#202020" font-size="24" font-family="Cairo-Bold, Cairo" font-weight="700"><tspan x="0" y="0">Income &amp; Expenses</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit" data-name="Lorem ipsum dolor sit" transform="translate(0 69)" fill="#969ba0" font-size="18" font-family="Helvetica"><tspan x="0" y="0">Lorem ipsum dolor sit</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

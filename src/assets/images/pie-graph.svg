@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="352" height="545" viewBox="0 0 352 545">
+  <defs>
+    <filter id="background" x="0" y="0" width="352" height="545" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="summary" transform="translate(6 2)">
+    <g transform="matrix(1, 0, 0, 1, -6, -2)" filter="url(#background)">
+      <path id="background-2" data-name="background" d="M14,0H326a14,14,0,0,1,14,14V519a14,14,0,0,1-14,14H14A14,14,0,0,1,0,519V14A14,14,0,0,1,14,0Z" transform="translate(6 2)" fill="#fff"/>
+    </g>
+    <g id="item" transform="translate(52 354)">
+      <g id="_01" data-name="01">
+        <path id="dot" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(0 15)" fill="#6418c3"/>
+        <text id="Visitors" transform="translate(30 29)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Visitors</tspan></text>
+        <text id="_45_215" data-name="45,215" transform="translate(235 31)" font-size="24" font-family="Cairo-Bold, Cairo" font-weight="700"><tspan x="-73.512" y="0">45,215</tspan></text>
+      </g>
+      <g id="_01-2" data-name="01" transform="translate(0 52)">
+        <path id="dot-2" data-name="dot" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(0 17)" fill="#e328af"/>
+        <text id="Clicked" transform="translate(30 31)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Clicked</tspan></text>
+        <text id="_245" data-name="245" transform="translate(235 31)" font-size="24" font-family="Cairo-Bold, Cairo" font-weight="700"><tspan x="-40.32" y="0">245</tspan></text>
+      </g>
+      <g id="_01-3" data-name="01" transform="translate(2 104)">
+        <path id="dot-3" data-name="dot" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(0 17)" fill="#5ecfff"/>
+        <text id="Contact" transform="translate(30 31)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Contact</tspan></text>
+        <text id="_672" data-name="672" transform="translate(233 31)" font-size="24" font-family="Cairo-Bold, Cairo" font-weight="700"><tspan x="-40.32" y="0">672</tspan></text>
+      </g>
+    </g>
+    <g id="ringProgressbar" transform="translate(83 160)">
+      <path id="Oval" d="M47.328,0A47.328,47.328,0,1,1,0,47.328,47.328,47.328,0,0,1,47.328,0Z" transform="translate(39.343 39)" fill="none" stroke="#e1e5ff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape" d="M23.664,88.315A47.328,47.328,0,0,1,67.821,4.667" transform="translate(39.343 39.002)" fill="none" stroke="#5ecfff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
+      <path id="Oval-2" data-name="Oval" d="M66.025,0A66.025,66.025,0,1,1,0,66.025,66.025,66.025,0,0,1,66.025,0Z" transform="translate(20.646 20.306)" fill="none" stroke="#e1e5ff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-2" data-name="Shape" d="M33.013,123.2a66.025,66.025,0,1,1,98.129-68.093" transform="translate(20.646 20.305)" fill="none" stroke="#e328af" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
+      <path id="Oval-3" data-name="Oval" d="M85.891,0A85.891,85.891,0,1,1,0,85.891,85.891,85.891,0,0,1,85.891,0Z" transform="translate(0.78 0.438)" fill="none" stroke="#e1e5ff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-3" data-name="Shape" d="M42.945,160.275A85.891,85.891,0,1,1,164.87,119.65" transform="translate(0.78 0.438)" fill="none" stroke="#6418c3" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
+    </g>
+    <g id="title" transform="translate(30 30)">
+      <text id="Profile_Summary" data-name="Profile Summary" transform="translate(0 31)" fill="#202020" font-size="24" font-family="Cairo-Bold, Cairo" font-weight="700"><tspan x="0" y="0">Profile Summary</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit" data-name="Lorem ipsum dolor sit" transform="translate(0 69)" fill="#969ba0" font-size="18" font-family="Helvetica"><tspan x="0" y="0">Lorem ipsum dolor sit</tspan></text>
+    </g>
+  </g>
+</svg>

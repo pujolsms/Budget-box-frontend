@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133.5" height="137.5" viewBox="0 0 133.5 137.5">
+  <defs>
+    <filter id="Rectangle_298" x="0" y="0" width="120.928" height="120.928" filterUnits="userSpaceOnUse">
+      <feOffset dx="-13" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-color="#212121" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_349" data-name="Group 349" transform="translate(-10.5 -370.5)">
+    <text id="Dashboard" transform="translate(25 501)" fill="rgba(240,240,240,0.65)" font-size="21" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Dashboard</tspan></text>
+    <g id="Group_348" data-name="Group 348" transform="translate(-21)">
+      <g transform="matrix(1, 0, 0, 1, 31.5, 370.5)" filter="url(#Rectangle_298)">
+        <rect id="Rectangle_298-2" data-name="Rectangle 298" width="57.932" height="57.932" rx="15" transform="translate(32.5 62.46) rotate(-45)" fill="rgba(240,240,240,0.65)"/>
+      </g>
+      <rect id="Rectangle_47" data-name="Rectangle 47" width="57.932" height="57.932" rx="15" transform="translate(64 432.964) rotate(-45)" fill="rgba(240,240,240,0.65)"/>
+      <g id="dashboard-reference" transform="translate(93.75 421.75)">
+        <path id="Path_324" data-name="Path 324" d="M3.545,22.5v1.295H6.514L2.25,28.059l.916.916L7.43,24.711V27.68H8.725V22.5Z" transform="translate(0 -8.596)" fill="#2e4dd4"/>
+        <path id="Path_325" data-name="Path 325" d="M27,23.625h1.295v3.237H27Z" transform="translate(-10.506 -9.073)" fill="#2e4dd4"/>
+        <path id="Path_326" data-name="Path 326" d="M22.5,18h1.295v6.475H22.5Z" transform="translate(-8.596 -6.686)" fill="#2e4dd4"/>
+        <path id="Path_327" data-name="Path 327" d="M18,20.25h1.295v5.18H18Z" transform="translate(-6.686 -7.641)" fill="#2e4dd4"/>
+        <path id="Path_328" data-name="Path 328" d="M19.084,2.25H3.545A1.3,1.3,0,0,0,2.25,3.545v7.77H3.545V9.372h15.54v9.712H11.314v1.295h7.77a1.3,1.3,0,0,0,1.295-1.295V3.545A1.3,1.3,0,0,0,19.084,2.25ZM8.725,8.077H3.545V3.545h5.18Zm1.295,0V3.545h9.064V8.077Z" fill="#2e4dd4"/>
+      </g>
+    </g>
+  </g>
+</svg>

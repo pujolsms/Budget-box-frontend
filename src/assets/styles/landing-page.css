@@ -1,0 +1,98 @@
+
+/* LANDING */
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins";
+}
+/**********************
+****Main
+***********************/
+main {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  gap: -2rem;
+}
+main aside {
+  background-color: #2e4dd4;
+  height: 1000px;
+  border-radius: 20px 0px 0px 20px;
+  flex-basis: 10%;
+}
+main aside .logo img {
+  padding: 22px 15px;
+  width: 140px;
+}
+main .container {
+  background-color: #f5f6fa;
+  z-index: 1;
+  border-radius: 30px;
+  flex-basis: 90%;
+}
+main .container .nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px 40px;
+}
+main .container .nav .sign-in {
+  background-color: #fff;
+  border-right: 2px solid #707070;
+  padding: 10px 20px;
+  border-radius: 10px 0px 0px 10px;
+}
+main .container .nav .sign-up {
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 0px 10px 10px 0px;
+}
+main .container .nav .sign-in a,
+main .container .nav .sign-up a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+main .container .welcome {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 40px 0px 40px;
+}
+main .container .welcome .welcome-text,
+main .container .welcome .welcome-text h3,
+main .container .welcome .welcome-text p {
+  padding: 8px 0px;
+  font-size: 2rem;
+}
+main .container .welcome .welcome-text .bar-graph {
+  padding: 20px 0px 20px 0px;
+}
+main .container .welcome .welcome-text .bar-graph img {
+  width: 70%;
+}
+main .container .profile-summary .wave-image img,
+main .container .profile-summary .pie-image img {
+  width: 90%;
+}
+@media screen and (max-width: 1280px) {
+
+  main {
+    flex-direction: column;
+  }
+  main aside .logo{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+  }
+  main aside .logo img {
+    padding: 0;
+    width: 80px;
+  }
+  main .container .welcome {
+      flex-wrap: wrap;
+  }
+  main .container .welcome .welcome-text .bar-graph img {
+    display: none;
+  }
+}
